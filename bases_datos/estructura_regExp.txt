@@ -1,0 +1,9 @@
+tenemos 9134 lineas
+8811 son de normal
+29 emer
+290 WARNING
+fecha,hora,codigo_defecto,alerta,especificacion
+22/08/05,04:13:10,[0930],<NORMAL>,One Board is completed
+INSERT INTO mi_tabla (columna1, columna2, columna3) VALUES ('valor1', 'valor2', 'valor3');
+\((........),(........),.(....)..<(.*)>.(.*)
+('$1','$2','$3','$4','$5');

@@ -1,0 +1,291 @@
+index,fecha,hora,codigo_defecto,alerta,especificacion
+96,22/08/2005,05:04:17,[5633],<WARNING>,Head14 pick up the edge of Part 34-14626-of Feeder R15
+97,22/08/2005,05:04:17,[5633],<WARNING>,Head13 pick up the edge of Part 34-14626-of Feeder R15
+98,22/08/2005,05:04:17,[5633],<WARNING>,Head15 pick up the edge of Part 34-14626-of Feeder R15
+99,22/08/2005,05:04:18,[5101],<WARNING>,Head12 Feeder R15 Part 34-14626-The retry count for part pickup was exceeded for the tape feeder.
+100,22/08/2005,05:04:18,[5101],<WARNING>,Head14 Feeder R15 Part 34-14626-The retry count for part pickup was exceeded for the tape feeder.
+101,22/08/2005,05:04:18,[5101],<WARNING>,Head11 Feeder R15 Part 34-14626-The retry count for part pickup was exceeded for the tape feeder.
+102,22/08/2005,05:04:18,[5101],<WARNING>,Head13 Feeder R15 Part 34-14626-The retry count for part pickup was exceeded for the tape feeder.
+103,22/08/2005,05:04:18,[5101],<WARNING>,Head15 Feeder R15 Part 34-14626-The retry count for part pickup was exceeded for the tape feeder.
+109,22/08/2005,05:22:50,[0950],<WARNING>,The teaching box was disabled at the front.
+110,22/08/2005,05:22:50,[0954],<WARNING>,The teaching box was enabled at the rear side.
+139,22/08/2005,06:16:22,[5011],<WARNING>,[IT System] Vacant slot exists in the feeder base.
+152,22/08/2005,06:16:30,[5804],<WARNING>,Feeder F45 Part  Clamp Unlocked
+153,22/08/2005,06:16:30,[5804],<WARNING>,Feeder F45 Part  Clamp Unlocked
+160,22/08/2005,06:16:39,[0953],<WARNING>,The teaching box was enabled at the front side.
+161,22/08/2005,06:16:39,[0951],<WARNING>,The teaching box was disabled at the rear.
+178,22/08/2005,06:17:30,[5011],<WARNING>,[IT System] Vacant slot exists in the feeder base.
+184,22/08/2005,06:17:38,[5011],<WARNING>,[IT System] Vacant slot exists in the feeder base.
+186,22/08/2005,06:17:44,[0950],<WARNING>,The teaching box was disabled at the front.
+187,22/08/2005,06:17:44,[0954],<WARNING>,The teaching box was enabled at the rear side.
+244,22/08/2005,06:21:44,[aa0f],<WARNING>, F46 Head4 35-11527-Height of parts lead is recognized lower than its real one.
+245,22/08/2005,06:21:48,[5611],<WARNING>,Head4 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+246,22/08/2005,06:21:48,[aa1f],<WARNING>, F46 Head5 35-11527-Failed to pick up a part properly.
+249,22/08/2005,06:21:52,[5611],<WARNING>,Head5 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+250,22/08/2005,06:21:54,[aa1f],<WARNING>, F46 Head5 35-11527-Failed to pick up a part properly.
+251,22/08/2005,06:21:56,[5611],<WARNING>,Head2 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+252,22/08/2005,06:21:58,[5611],<WARNING>,Head2 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+253,22/08/2005,06:22:00,[5611],<WARNING>,Head4 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+254,22/08/2005,06:22:03,[5611],<WARNING>,Head4 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+255,22/08/2005,06:22:04,[5611],<WARNING>,Head2 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+256,22/08/2005,06:22:06,[5611],<WARNING>,Head2 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+257,22/08/2005,06:22:08,[5611],<WARNING>,Head5 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+258,22/08/2005,06:22:09,[5611],<WARNING>,Head4 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+259,22/08/2005,06:22:11,[5611],<WARNING>,Head4 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+260,22/08/2005,06:22:13,[5611],<WARNING>,Head4 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+261,22/08/2005,06:22:14,[5611],<WARNING>,Head4 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+262,22/08/2005,06:22:15,[5101],<WARNING>,Head4 Feeder F46 Part 35-11527-The retry count for part pickup was exceeded for the tape feeder.
+268,22/08/2005,06:22:29,[0953],<WARNING>,The teaching box was enabled at the front side.
+269,22/08/2005,06:22:29,[0951],<WARNING>,The teaching box was disabled at the rear.
+278,22/08/2005,06:22:31,[5611],<WARNING>,Head5 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+279,22/08/2005,06:22:31,[5611],<WARNING>,Head2 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+281,22/08/2005,06:22:33,[5611],<WARNING>,Head2 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+283,22/08/2005,06:22:38,[5611],<WARNING>,Head5 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+284,22/08/2005,06:22:38,[5611],<WARNING>,Head4 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+285,22/08/2005,06:22:39,[5611],<WARNING>,Head2 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+286,22/08/2005,06:22:41,[5101],<WARNING>,Head5 Feeder F46 Part 35-11527-The retry count for part pickup was exceeded for the tape feeder.
+287,22/08/2005,06:22:41,[5101],<WARNING>,Head2 Feeder F46 Part 35-11527-The retry count for part pickup was exceeded for the tape feeder.
+288,22/08/2005,06:22:41,[5101],<WARNING>,Head4 Feeder F46 Part 35-11527-The retry count for part pickup was exceeded for the tape feeder.
+307,22/08/2005,06:24:16,[5611],<WARNING>,Head2 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+308,22/08/2005,06:24:16,[aa0f],<WARNING>, F46 Head5 35-11527-Height of parts lead is recognized lower than its real one.
+309,22/08/2005,06:24:18,[5611],<WARNING>,Head2 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+310,22/08/2005,06:24:20,[aa1f],<WARNING>, F46 Head2 35-11527-Failed to pick up a part properly.
+311,22/08/2005,06:24:22,[5611],<WARNING>,Head5 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+312,22/08/2005,06:24:24,[5611],<WARNING>,Head5 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+316,22/08/2005,06:24:34,[5611],<WARNING>,Head4 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+317,22/08/2005,06:24:35,[aa1f],<WARNING>, F46 Head4 35-11527-Failed to pick up a part properly.
+321,22/08/2005,06:24:55,[5611],<WARNING>,Head2 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+322,22/08/2005,06:24:58,[5611],<WARNING>,Head4 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+323,22/08/2005,06:25:00,[5611],<WARNING>,Head4 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+324,22/08/2005,06:25:04,[5611],<WARNING>,Head4 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+325,22/08/2005,06:25:07,[aa0f],<WARNING>, F46 Head4 35-11527-Height of parts lead is recognized lower than its real one.
+326,22/08/2005,06:25:09,[5611],<WARNING>,Head4 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+327,22/08/2005,06:25:10,[5611],<WARNING>,Head4 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+328,22/08/2005,06:25:10,[5101],<WARNING>,Head4 Feeder F46 Part 35-11527-The retry count for part pickup was exceeded for the tape feeder.
+339,22/08/2005,06:25:24,[5611],<WARNING>,Head5 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+340,22/08/2005,06:25:27,[5611],<WARNING>,Head5 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+341,22/08/2005,06:25:27,[5611],<WARNING>,Head2 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+342,22/08/2005,06:25:29,[5611],<WARNING>,Head5 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+343,22/08/2005,06:25:30,[5611],<WARNING>,Head2 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+344,22/08/2005,06:25:30,[5101],<WARNING>,Head5 Feeder F46 Part 35-11527-The retry count for part pickup was exceeded for the tape feeder.
+345,22/08/2005,06:25:30,[5101],<WARNING>,Head2 Feeder F46 Part 35-11527-The retry count for part pickup was exceeded for the tape feeder.
+358,22/08/2005,06:25:58,[5611],<WARNING>,Head2 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+359,22/08/2005,06:25:58,[aa1f],<WARNING>, F46 Head2 35-11527-Failed to pick up a part properly.
+360,22/08/2005,06:26:00,[5611],<WARNING>,Head5 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+361,22/08/2005,06:26:01,[5611],<WARNING>,Head4 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+362,22/08/2005,06:26:01,[5611],<WARNING>,Head2 Pneumatic error was occurred during pickup part 35-11527-from tape feeder F46.
+363,22/08/2005,06:26:03,[5101],<WARNING>,Head4 Feeder F46 Part 35-11527-The retry count for part pickup was exceeded for the tape feeder.
+364,22/08/2005,06:26:03,[5101],<WARNING>,Head2 Feeder F46 Part 35-11527-The retry count for part pickup was exceeded for the tape feeder.
+365,22/08/2005,06:26:03,[5101],<WARNING>,Head5 Feeder F46 Part 35-11527-The retry count for part pickup was exceeded for the tape feeder.
+382,22/08/2005,06:28:13,[ff01],<WARNING>,Homing is completed properly.
+394,22/08/2005,06:29:09,[aa1f],<WARNING>, F45 Head1 32-09302-Failed to pick up a part properly.
+395,22/08/2005,06:29:11,[aa1f],<WARNING>, F45 Head1 32-09302-Failed to pick up a part properly.
+396,22/08/2005,06:29:12,[5611],<WARNING>,Head1 Pneumatic error was occurred during pickup part 32-09302-from tape feeder F45.
+397,22/08/2005,06:29:12,[5101],<WARNING>,Head1 Feeder F45 Part 32-09302-The retry count for part pickup was exceeded for the tape feeder.
+414,22/08/2005,06:29:50,[5611],<WARNING>,Head1 Pneumatic error was occurred during pickup part 32-09302-from tape feeder F45.
+415,22/08/2005,06:29:51,[5611],<WARNING>,Head1 Pneumatic error was occurred during pickup part 32-09302-from tape feeder F45.
+416,22/08/2005,06:29:52,[5611],<WARNING>,Head1 Pneumatic error was occurred during pickup part 32-09302-from tape feeder F45.
+417,22/08/2005,06:29:53,[5101],<WARNING>,Head1 Feeder F45 Part 32-09302-The retry count for part pickup was exceeded for the tape feeder.
+428,22/08/2005,06:32:04,[5611],<WARNING>,Head1 Pneumatic error was occurred during pickup part 32-09302-from tape feeder F45.
+429,22/08/2005,06:32:05,[5611],<WARNING>,Head1 Pneumatic error was occurred during pickup part 32-09302-from tape feeder F45.
+430,22/08/2005,06:32:06,[5611],<WARNING>,Head1 Pneumatic error was occurred during pickup part 32-09302-from tape feeder F45.
+431,22/08/2005,06:32:07,[5101],<WARNING>,Head1 Feeder F45 Part 32-09302-The retry count for part pickup was exceeded for the tape feeder.
+435,22/08/2005,06:33:06,[5011],<WARNING>,[IT System] Vacant slot exists in the feeder base.
+449,22/08/2005,06:35:03,[ff01],<WARNING>,Homing is completed properly.
+557,22/08/2005,06:48:51,[ae04],<WARNING>, Found score is lower than score input.(Camera ID:13)
+558,22/08/2005,06:48:51,[a133],<WARNING>,[StationF2] Failed to recognize the third PCB fiducial mark.
+578,22/08/2005,06:49:40,[ff01],<WARNING>,Homing is completed properly.
+598,22/08/2005,07:02:05,[aa1f],<WARNING>, F46 Head5 35-11527-Failed to pick up a part properly.
+680,22/08/2005,07:08:14,[aa0f],<WARNING>, F46 Head2 35-11527-Height of parts lead is recognized lower than its real one.
+804,22/08/2005,07:22:23,[aa1f],<WARNING>, F46 Head5 35-11527-Failed to pick up a part properly.
+866,22/08/2005,07:26:41,[ae04],<WARNING>, Found score is lower than score input.(Camera ID:2)
+867,22/08/2005,07:26:41,[a131],<WARNING>,[StationR2] Failed to recognize the first PCB fiducial mark.
+881,22/08/2005,07:27:24,[0950],<WARNING>,The teaching box was disabled at the front.
+882,22/08/2005,07:27:24,[0954],<WARNING>,The teaching box was enabled at the rear side.
+892,22/08/2005,07:27:55,[ff01],<WARNING>,Homing is completed properly.
+917,22/08/2005,07:30:26,[aa19],<WARNING>, F46 Head4 35-11527-Parts length is recognized smaller than its real one.
+962,22/08/2005,07:49:40,[aa0b],<WARNING>, R15 Head12 34-14626 Parts angle is beyond the reference value.
+993,22/08/2005,08:02:41,[0953],<WARNING>,The teaching box was enabled at the front side.
+994,22/08/2005,08:02:41,[0951],<WARNING>,The teaching box was disabled at the rear.
+1022,22/08/2005,08:07:23,[0950],<WARNING>,The teaching box was disabled at the front.
+1023,22/08/2005,08:07:23,[0954],<WARNING>,The teaching box was enabled at the rear side.
+1026,22/08/2005,08:07:34,[5011],<WARNING>,[IT System] Vacant slot exists in the feeder base.
+1027,22/08/2005,08:30:36,[0953],<WARNING>,The teaching box was enabled at the front side.
+1028,22/08/2005,08:30:36,[0951],<WARNING>,The teaching box was disabled at the rear.
+1031,22/08/2005,12:59:49,[0950],<WARNING>,The teaching box was disabled at the front.
+1034,22/08/2005,12:59:49,[0954],<WARNING>,The teaching box was enabled at the rear side.
+1057,22/08/2005,16:43:49,[0953],<WARNING>,The teaching box was enabled at the front side.
+1058,22/08/2005,16:43:49,[0951],<WARNING>,The teaching box was disabled at the rear.
+1078,22/08/2005,18:04:06,[0950],<WARNING>,The teaching box was disabled at the front.
+1079,22/08/2005,18:04:06,[0954],<WARNING>,The teaching box was enabled at the rear side.
+1082,22/08/2005,18:04:14,[ff01],<WARNING>,Homing is completed properly.
+1083,22/08/2005,18:10:39,[0953],<WARNING>,The teaching box was enabled at the front side.
+1084,22/08/2005,18:10:39,[0951],<WARNING>,The teaching box was disabled at the rear.
+1351,22/08/2006,14:09:51,[1000],<WARNING>,Negative H/W Limit of G1R-Y axis is detected.
+1352,22/08/2006,14:09:51,[ff01],<WARNING>,Homing is completed properly.
+1411,22/08/2006,14:44:01,[ff01],<WARNING>,Homing is completed properly.
+1418,22/08/2006,14:45:14,[aa1f],<WARNING>, F38 Head1 34-14761-Failed to pick up a part properly.
+1419,22/08/2006,14:45:14,[aa1f],<WARNING>, F38 Head2 34-14761-Failed to pick up a part properly.
+1420,22/08/2006,14:45:17,[aa1f],<WARNING>, F38 Head1 34-14761-Failed to pick up a part properly.
+1421,22/08/2006,14:45:17,[aa1f],<WARNING>, F38 Head2 34-14761-Failed to pick up a part properly.
+1422,22/08/2006,14:45:18,[fe01],<WARNING>,Head1 Feeder F38 Part 34-14761-The retry count for part pickup was exceeded for the tape feeder.
+1423,22/08/2006,14:45:18,[fe01],<WARNING>,Head2 Feeder F38 Part 34-14761-The retry count for part pickup was exceeded for the tape feeder.
+1444,22/08/2006,14:46:02,[5011],<WARNING>,[IT System] Vacant slot exists in the feeder base.
+1468,22/08/2006,15:08:44,[5611],<WARNING>,Head15 Pneumatic error was occurred during pickup part 34-14762-from tape feeder R21.
+1469,22/08/2006,15:08:45,[5101],<WARNING>,Head14 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+1470,22/08/2006,15:08:45,[5101],<WARNING>,Head15 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+1471,22/08/2006,15:08:45,[5101],<WARNING>,Head12 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+1512,22/08/2006,15:19:44,[ff01],<WARNING>,Homing is completed properly.
+1535,22/08/2006,15:28:39,[5611],<WARNING>,Head15 Pneumatic error was occurred during pickup part 35-11966-from tape feeder R20.
+1536,22/08/2006,15:28:40,[5101],<WARNING>,Head11 Feeder R20 Part 35-11966-The retry count for part pickup was exceeded for the tape feeder.
+1537,22/08/2006,15:28:40,[5101],<WARNING>,Head12 Feeder R20 Part 35-11966-The retry count for part pickup was exceeded for the tape feeder.
+1538,22/08/2006,15:28:40,[5101],<WARNING>,Head13 Feeder R20 Part 35-11966-The retry count for part pickup was exceeded for the tape feeder.
+1539,22/08/2006,15:28:40,[5101],<WARNING>,Head14 Feeder R20 Part 35-11966-The retry count for part pickup was exceeded for the tape feeder.
+1540,22/08/2006,15:28:40,[5101],<WARNING>,Head15 Feeder R20 Part 35-11966-The retry count for part pickup was exceeded for the tape feeder.
+1544,22/08/2006,15:28:55,[0950],<WARNING>,The teaching box was disabled at the front.
+1545,22/08/2006,15:28:55,[0954],<WARNING>,The teaching box was enabled at the rear side.
+1580,22/08/2006,15:41:58,[0953],<WARNING>,The teaching box was enabled at the front side.
+1581,22/08/2006,15:41:58,[0951],<WARNING>,The teaching box was disabled at the rear.
+1671,22/08/2006,15:54:53,[5011],<WARNING>,[IT System] Vacant slot exists in the feeder base.
+1673,22/08/2006,15:55:03,[5011],<WARNING>,[IT System] Vacant slot exists in the feeder base.
+1710,22/08/2006,16:04:36,[aa0f],<WARNING>, R20 Head13 35-11966 Height of parts lead is recognized lower than its real one.
+1711,22/08/2006,16:04:37,[5101],<WARNING>,Head11 Feeder R20 Part 35-11966-The retry count for part pickup was exceeded for the tape feeder.
+1712,22/08/2006,16:04:37,[5101],<WARNING>,Head13 Feeder R20 Part 35-11966-The retry count for part pickup was exceeded for the tape feeder.
+1959,22/08/2006,16:23:45,[5011],<WARNING>,[IT System] Vacant slot exists in the feeder base.
+2001,22/08/2006,16:31:40,[3094],<WARNING>,[ StationF3 ] Board never cleared the Work sensor.
+2114,22/08/2006,16:43:19,[aa1f],<WARNING>, R21 Head12 34-14762 Failed to pick up a part properly.
+2364,22/08/2006,17:16:00,[5611],<WARNING>,Head1 Pneumatic error was occurred during pickup part 34-14761-from tape feeder F38.
+2365,22/08/2006,17:16:00,[aa1f],<WARNING>, F38 Head2 34-14761-Failed to pick up a part properly.
+2411,22/08/2006,17:30:49,[ae04],<WARNING>, Found score is lower than score input.(Camera ID:2)
+2412,22/08/2006,17:30:49,[a132],<WARNING>,[StationR2] Failed to recognize the second PCB fiducial mark.
+2531,22/08/2006,17:31:10,[ae04],<WARNING>, Found score is lower than score input.(Camera ID:2)
+2532,22/08/2006,17:31:10,[a132],<WARNING>,[StationR2] Failed to recognize the second PCB fiducial mark.
+2547,22/08/2006,17:31:54,[0950],<WARNING>,The teaching box was disabled at the front.
+2548,22/08/2006,17:31:55,[0954],<WARNING>,The teaching box was enabled at the rear side.
+2550,22/08/2006,17:31:55,[bc00],<WARNING>,Machine is not in the Ready state.
+2552,22/08/2006,17:31:55,[bc00],<WARNING>,Machine is not in the Ready state.
+2599,22/08/2006,17:32:07,[1001],<WARNING>,Positive H/W Limit of G1R-Y axis is detected.
+2600,22/08/2006,17:32:07,[1000],<WARNING>,Negative H/W Limit of G1F-Y axis is detected.
+2603,22/08/2006,17:32:30,[ff01],<WARNING>,Homing is completed properly.
+2740,22/08/2006,17:37:28,[ff01],<WARNING>,Homing is completed properly.
+2751,22/08/2006,17:37:52,[0953],<WARNING>,The teaching box was enabled at the front side.
+2752,22/08/2006,17:37:52,[0951],<WARNING>,The teaching box was disabled at the rear.
+2794,22/08/2006,17:38:06,[1001],<WARNING>,Positive H/W Limit of G1F-Y axis is detected.
+2795,22/08/2006,17:38:29,[ff01],<WARNING>,Homing is completed properly.
+2850,22/08/2006,17:58:15,[ae04],<WARNING>, Found score is lower than score input.(Camera ID:13)
+2851,22/08/2006,17:58:15,[a133],<WARNING>,[StationF2] Failed to recognize the third PCB fiducial mark.
+2894,22/08/2006,18:05:30,[ae12],<WARNING>, Contrast is too low btn fiducial and background.(Camera ID:13)
+2895,22/08/2006,18:05:30,[a132],<WARNING>,[StationF2] Failed to recognize the second PCB fiducial mark.
+2910,22/08/2006,18:11:18,[ae12],<WARNING>, Contrast is too low btn fiducial and background.(Camera ID:13)
+2911,22/08/2006,18:11:18,[a132],<WARNING>,[StationF2] Failed to recognize the second PCB fiducial mark.
+2971,22/08/2006,18:11:37,[ff01],<WARNING>,Homing is completed properly.
+3110,22/08/2006,18:17:13,[5611],<WARNING>,Head12 Pneumatic error was occurred during pickup part 34-14762-from tape feeder R21.
+3557,22/08/2006,19:00:25,[aa1f],<WARNING>, F38 Head2 34-14761-Failed to pick up a part properly.
+3576,22/08/2006,19:04:32,[5611],<WARNING>,Head3 Pneumatic error was occurred during pickup part 34-14761-from tape feeder F41.
+3577,22/08/2006,19:04:32,[aa04],<WARNING>, F41 Head3 34-14761-Failed to find out parts.
+3578,22/08/2006,19:04:32,[aa1f],<WARNING>, F41 Head4 34-14761-Failed to pick up a part properly.
+3594,22/08/2006,19:05:42,[0950],<WARNING>,The teaching box was disabled at the front.
+3595,22/08/2006,19:05:42,[0954],<WARNING>,The teaching box was enabled at the rear side.
+3601,22/08/2006,19:05:54,[ff01],<WARNING>,Homing is completed properly.
+3652,22/08/2006,19:49:15,[0953],<WARNING>,The teaching box was enabled at the front side.
+3653,22/08/2006,19:49:15,[0951],<WARNING>,The teaching box was disabled at the rear.
+3734,22/08/2006,20:17:16,[aa0b],<WARNING>, R21 Head15 34-14762 Parts angle is beyond the reference value.
+3735,22/08/2006,20:17:17,[5101],<WARNING>,Head12 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+3736,22/08/2006,20:17:17,[5101],<WARNING>,Head14 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+3737,22/08/2006,20:17:17,[5101],<WARNING>,Head15 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+3777,22/08/2006,20:21:49,[5611],<WARNING>,Head15 Pneumatic error was occurred during pickup part 34-14762-from tape feeder R21.
+3778,22/08/2006,20:21:50,[5101],<WARNING>,Head14 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+3779,22/08/2006,20:21:50,[5101],<WARNING>,Head15 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+3780,22/08/2006,20:21:50,[5101],<WARNING>,Head12 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+3803,22/08/2006,20:22:53,[aa04],<WARNING>, R21 Head12 34-14762 Failed to find out parts.
+3828,22/08/2006,20:28:33,[5633],<WARNING>,Head13 pick up the edge of Part 35-11966-of Feeder R20
+3829,22/08/2006,20:28:35,[5101],<WARNING>,Head11 Feeder R20 Part 35-11966-The retry count for part pickup was exceeded for the tape feeder.
+3830,22/08/2006,20:28:35,[5101],<WARNING>,Head13 Feeder R20 Part 35-11966-The retry count for part pickup was exceeded for the tape feeder.
+3831,22/08/2006,20:29:09,[5633],<WARNING>,Head15 pick up the edge of Part 34-14762-of Feeder R21
+3832,22/08/2006,20:29:10,[5101],<WARNING>,Head12 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+3833,22/08/2006,20:29:10,[5101],<WARNING>,Head15 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+3834,22/08/2006,20:29:10,[5101],<WARNING>,Head14 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+3839,22/08/2006,20:29:50,[0953],<WARNING>,The teaching box was enabled at the front side.
+3840,22/08/2006,20:29:50,[0951],<WARNING>,The teaching box was disabled at the rear.
+3884,22/08/2006,20:29:52,[5633],<WARNING>,Head11 pick up the edge of Part 35-11966-of Feeder R20
+3885,22/08/2006,20:29:52,[5633],<WARNING>,Head13 pick up the edge of Part 35-11966-of Feeder R20
+3890,22/08/2006,20:29:53,[5101],<WARNING>,Head11 Feeder R20 Part 35-11966-The retry count for part pickup was exceeded for the tape feeder.
+3891,22/08/2006,20:29:53,[5101],<WARNING>,Head13 Feeder R20 Part 35-11966-The retry count for part pickup was exceeded for the tape feeder.
+3892,22/08/2006,20:29:53,[5633],<WARNING>,Head12 pick up the edge of Part 34-14762-of Feeder R21
+3893,22/08/2006,20:29:53,[5633],<WARNING>,Head14 pick up the edge of Part 34-14762-of Feeder R21
+3894,22/08/2006,20:29:53,[5633],<WARNING>,Head15 pick up the edge of Part 34-14762-of Feeder R21
+3895,22/08/2006,20:29:55,[5101],<WARNING>,Head12 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+3896,22/08/2006,20:29:55,[5101],<WARNING>,Head14 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+3897,22/08/2006,20:29:55,[5101],<WARNING>,Head15 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+3908,22/08/2006,20:30:19,[0950],<WARNING>,The teaching box was disabled at the front.
+3909,22/08/2006,20:30:19,[0954],<WARNING>,The teaching box was enabled at the rear side.
+4092,22/08/2006,20:58:58,[aa1f],<WARNING>, F38 Head1 34-14761-Failed to pick up a part properly.
+4093,22/08/2006,20:59:00,[5803],<WARNING>,Feeder F38 Index Error
+4094,22/08/2006,20:59:00,[4803],<WARNING>,Cannot open the tape feeder F38 shutter.
+4095,22/08/2006,20:59:00,[4803],<WARNING>,Cannot open the tape feeder F38 shutter.
+4109,22/08/2006,20:59:26,[5011],<WARNING>,[IT System] Vacant slot exists in the feeder base.
+4119,22/08/2006,21:00:38,[0953],<WARNING>,The teaching box was enabled at the front side.
+4120,22/08/2006,21:00:38,[0951],<WARNING>,The teaching box was disabled at the rear.
+4125,22/08/2006,21:00:45,[ff01],<WARNING>,Homing is completed properly.
+4385,22/08/2006,21:15:54,[5611],<WARNING>,Head14 Pneumatic error was occurred during pickup part 34-14762-from tape feeder R21.
+4415,22/08/2006,21:54:51,[5611],<WARNING>,Head12 Pneumatic error was occurred during pickup part 34-14762-from tape feeder R21.
+4552,22/08/2006,22:02:37,[ae04],<WARNING>, Found score is lower than score input.(Camera ID:2)
+4553,22/08/2006,22:02:37,[a131],<WARNING>,[StationR2] Failed to recognize the first PCB fiducial mark.
+4592,22/08/2006,22:03:25,[0950],<WARNING>,The teaching box was disabled at the front.
+4593,22/08/2006,22:03:26,[0954],<WARNING>,The teaching box was enabled at the rear side.
+4608,22/08/2006,22:03:30,[ff01],<WARNING>,Homing is completed properly.
+4680,22/08/2006,22:06:49,[5611],<WARNING>,Head15 Pneumatic error was occurred during pickup part 34-14762-from tape feeder R21.
+4681,22/08/2006,22:06:50,[5101],<WARNING>,Head12 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+4682,22/08/2006,22:06:50,[5101],<WARNING>,Head14 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+4683,22/08/2006,22:06:50,[5101],<WARNING>,Head15 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+4771,22/08/2006,22:10:05,[ae04],<WARNING>, Found score is lower than score input.(Camera ID:13)
+4772,22/08/2006,22:10:05,[a132],<WARNING>,[StationF2] Failed to recognize the second PCB fiducial mark.
+4790,22/08/2006,22:10:17,[0953],<WARNING>,The teaching box was enabled at the front side.
+4791,22/08/2006,22:10:17,[0951],<WARNING>,The teaching box was disabled at the rear.
+4828,22/08/2006,22:10:19,[ae04],<WARNING>, Found score is lower than score input.(Camera ID:13)
+4829,22/08/2006,22:10:19,[a132],<WARNING>,[StationF2] Failed to recognize the second PCB fiducial mark.
+4890,22/08/2006,22:10:42,[ff01],<WARNING>,Homing is completed properly.
+5030,22/08/2006,22:17:22,[ae04],<WARNING>, Found score is lower than score input.(Camera ID:13)
+5031,22/08/2006,22:17:22,[a131],<WARNING>,[StationF2] Failed to recognize the first PCB fiducial mark.
+5103,22/08/2006,22:19:40,[ff01],<WARNING>,Homing is completed properly.
+5136,22/08/2006,22:21:20,[5611],<WARNING>,Head15 Pneumatic error was occurred during pickup part 34-14762-from tape feeder R21.
+5137,22/08/2006,22:21:21,[5101],<WARNING>,Head15 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+5138,22/08/2006,22:21:21,[5101],<WARNING>,Head14 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+5139,22/08/2006,22:21:21,[5101],<WARNING>,Head12 Feeder R21 Part 34-14762-The retry count for part pickup was exceeded for the tape feeder.
+5148,22/08/2006,22:21:27,[0950],<WARNING>,The teaching box was disabled at the front.
+5149,22/08/2006,22:21:27,[0954],<WARNING>,The teaching box was enabled at the rear side.
+5183,22/08/2006,22:21:40,[ae04],<WARNING>, Found score is lower than score input.(Camera ID:2)
+5184,22/08/2006,22:21:40,[a132],<WARNING>,[StationR2] Failed to recognize the second PCB fiducial mark.
+5241,22/08/2006,22:21:48,[ae04],<WARNING>, Found score is lower than score input.(Camera ID:2)
+5242,22/08/2006,22:21:48,[a132],<WARNING>,[StationR2] Failed to recognize the second PCB fiducial mark.
+5282,22/08/2006,22:22:04,[ae04],<WARNING>, Found score is lower than score input.(Camera ID:2)
+5283,22/08/2006,22:22:04,[a132],<WARNING>,[StationR2] Failed to recognize the second PCB fiducial mark.
+5310,22/08/2006,22:22:30,[ff01],<WARNING>,Homing is completed properly.
+5399,22/08/2006,22:25:55,[ae12],<WARNING>, Contrast is too low btn fiducial and background.(Camera ID:2)
+5400,22/08/2006,22:25:55,[a132],<WARNING>,[StationR2] Failed to recognize the second PCB fiducial mark.
+5467,22/08/2006,22:26:08,[ae12],<WARNING>, Contrast is too low btn fiducial and background.(Camera ID:2)
+5468,22/08/2006,22:26:08,[a132],<WARNING>,[StationR2] Failed to recognize the second PCB fiducial mark.
+5527,22/08/2006,22:26:49,[ff01],<WARNING>,Homing is completed properly.
+5804,22/08/2006,23:34:41,[5011],<WARNING>,[IT System] Vacant slot exists in the feeder base.
+5826,22/08/2006,23:51:41,[0953],<WARNING>,The teaching box was enabled at the front side.
+5827,22/08/2006,23:51:41,[0951],<WARNING>,The teaching box was disabled at the rear.
+5832,22/08/2006,23:52:12,[ff01],<WARNING>,Homing is completed properly.
+6887,22/08/2007,03:01:11,[5611],<WARNING>,Head15 Pneumatic error was occurred during pickup part 35-12068-from tape feeder R28.
+6888,22/08/2007,03:01:13,[5611],<WARNING>,Head15 Pneumatic error was occurred during pickup part 35-12068-from tape feeder R28.
+6889,22/08/2007,03:01:13,[5611],<WARNING>,Head15 Pneumatic error was occurred during pickup part 35-12068-from tape feeder R28.
+6890,22/08/2007,03:01:14,[5101],<WARNING>,Head15 Feeder R28 Part 35-12068-The retry count for part pickup was exceeded for the tape feeder.
+6907,22/08/2007,03:02:22,[0950],<WARNING>,The teaching box was disabled at the front.
+6908,22/08/2007,03:02:22,[0954],<WARNING>,The teaching box was enabled at the rear side.
+6958,22/08/2007,03:07:00,[aa1f],<WARNING>, R28 Head11 35-12068 Failed to pick up a part properly.
+6959,22/08/2007,03:07:00,[aa1f],<WARNING>, R28 Head12 35-12068 Failed to pick up a part properly.
+6960,22/08/2007,03:07:00,[aa1f],<WARNING>, R28 Head13 35-12068 Failed to pick up a part properly.
+6961,22/08/2007,03:07:00,[aa1f],<WARNING>, R28 Head14 35-12068 Failed to pick up a part properly.
+6962,22/08/2007,03:07:00,[aa1f],<WARNING>, R28 Head15 35-12068 Failed to pick up a part properly.
+6963,22/08/2007,03:07:02,[5101],<WARNING>,Head11 Feeder R28 Part 35-12068-The retry count for part pickup was exceeded for the tape feeder.
+6964,22/08/2007,03:07:02,[5101],<WARNING>,Head12 Feeder R28 Part 35-12068-The retry count for part pickup was exceeded for the tape feeder.
+6965,22/08/2007,03:07:02,[5101],<WARNING>,Head13 Feeder R28 Part 35-12068-The retry count for part pickup was exceeded for the tape feeder.
+6966,22/08/2007,03:07:02,[5101],<WARNING>,Head14 Feeder R28 Part 35-12068-The retry count for part pickup was exceeded for the tape feeder.
+6967,22/08/2007,03:07:02,[5101],<WARNING>,Head15 Feeder R28 Part 35-12068-The retry count for part pickup was exceeded for the tape feeder.
+7327,22/08/2007,04:09:38,[5611],<WARNING>,Head3 Pneumatic error was occurred during pickup part 35-12068 from tape feeder F28.
+9123,22/08/2007,08:52:52,[0953],<WARNING>,The teaching box was enabled at the front side.
+9124,22/08/2007,08:52:52,[0951],<WARNING>,The teaching box was disabled at the rear.
